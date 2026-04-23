@@ -3,7 +3,10 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=130&lines=🏆+OpenAI+National+Hackathon+Winner+%7C+₹3+Lakhs;🥇+IMO+%26+NSO+Gold+Medalist+%7C+NASA+Contest+Winner;🤖+Building+AI+Systems+that+Matter+to+the+Real+World;🚀+1st+Year+Student+%7C+10%2B+Hackathons+%7C+3+Internships" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=130&lines=%F0%9F%8F%86+OpenAI+Hackathon+Winner+%7C+NASA+Contest+Winner;%F0%9F%A5%87+IMO+%26+NSO+Gold+Medalist;%F0%9F%A4%96+Building+AI+for+Real-World+Impact;%F0%9F%9A%80+1st+Year+Student+%7C+10%2B+Hackathons+%7C+3+Internships&v=2"
+    alt="Typing SVG"
+  />
 </div>
 
 <br/>
@@ -27,9 +30,6 @@
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="600"/>
-</div>
 
 ---
 
@@ -44,7 +44,7 @@ class NarainKarti:
     location    = "Chennai, India 🇮🇳"
 
     education   = [
-        "B.Tech CSC @ NIAT, Amit University  —  CGPA: 8.9 / 10  🎓",
+        "B.Tech CSE @ NIAT, Amit University  —  CGPA: 8.9 / 10  🎓",
         "B.S. Data Science & AI (AIML) @ IIT Madras  —  Dual Degree  🎓"
     ]
 
@@ -69,7 +69,7 @@ class NarainKarti:
         "🎯  Target: MAANG | 20+ LPA | High-Impact Tech Career"
     ]
 
-    motto = "The college name won't define me. The work will. 🔥"
+   
 ```
 
 ---
@@ -79,7 +79,7 @@ class NarainKarti:
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200"/>
+<img src="https://www.pinterest.com/pin/151011393727836810/" width="200"/>
 </div>
 
 <div align="center">
@@ -144,7 +144,7 @@ class NarainKarti:
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450"/>
+<img src="https://www.tumblr.com/darokin/132434938700/cctvs-are-watching-you" width="450"/>
 </div>
 
 > ### 🚦 AI-Driven Hybrid Edge-Cloud Traffic Intelligence System
@@ -175,31 +175,53 @@ class NarainKarti:
 
 <div align="center">
 <h2>💼 Work Experience</h2>
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="350"/>
+<img src="https://www.pinterest.com/ideas/pixel-gif-studying/934650481205/" width="350"/>
 </div>
 
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                         INTERNSHIP TIMELINE                               │
-├─────────────────┬──────────────────────────┬────────────────────────────┤
-│  Company        │  Role                    │  What I Built              │
-├─────────────────┼──────────────────────────┼────────────────────────────┤
-│  🔵 Fire Dolphin│  Agentic AI Engineer     │  Multi-agent backend that  │
-│  (Startup)      │                          │  generates full-stack apps  │
-│                 │                          │  from natural language      │
-│                 │                          │  prompts. Designed entire   │
-│                 │                          │  backend schema & agent     │
-│                 │                          │  orchestration system.      │
-├─────────────────┼──────────────────────────┼────────────────────────────┤
-│  🟢 Thinkers    │  Software Developer      │  Active development on      │
-│  Cave [CURRENT] │                          │  production systems         │
-├─────────────────┼──────────────────────────┼────────────────────────────┤
-│  ⚪ Allytriz    │  Web Developer           │  Full web platform          │
-│  Technologies   │                          │  development                │
-└─────────────────┴──────────────────────────┴────────────────────────────┘
-```
+<h2 align="center">💼 Internship Timeline</h2>
 
----
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 90%; text-align: left;">
+  <thead style="background-color: #0d1117; color: #00f5ff;">
+    <tr>
+      <th>Company</th>
+      <th>Role</th>
+      <th>What I Built</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>🔵 Fire Dolphin</b><br>
+        <small>(Startup)</small>
+      </td>
+      <td>Agentic AI Engineer</td>
+      <td>
+        Built a multi-agent backend that generates full-stack applications 
+        from natural language prompts.<br><br>
+        Designed backend schema & agent orchestration system.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🟢 Thinkers Cave</b><br>
+        <small>[CURRENT]</small>
+      </td>
+      <td>Software Developer</td>
+      <td>
+        Working on production-level systems and real-world application development.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>⚪ Allytriz Technologies</b>
+      </td>
+      <td>Web Developer</td>
+      <td>
+        Developed and deployed a full-stack web platform.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <div align="center">
 <h2>🛠️ Tech Arsenal</h2>
@@ -207,7 +229,7 @@ class NarainKarti:
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f3bfa2901a1a.gif" width="70"/>
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="70"/>
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70"/>
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70"/>
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70"/>
@@ -247,7 +269,6 @@ class NarainKarti:
 
 **🤖 Agentic AI & Automation**
 
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-6366f1?style=for-the-badge)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
@@ -281,28 +302,10 @@ class NarainKarti:
 ⚔️  DSA Mastery           ████████░░░░░░░░  LeetCode — Daily. No Excuses.
 🤖  Agentic AI Systems    ██████████████░░  Production-Grade Multi-Agent Builds
 🌐  Full Stack            ████████████░░░░  End-to-End Deployed Applications
-☁️  Cloud Architecture    ██████████░░░░░░  AWS / Azure / Kubernetes
 🧠  ML Engineering        ████████████░░░░  Edge + Cloud AI Integration
 🏆  Hackathons            ██████████████░░  Actively Competing Nationally
 ```
 
----
-
-<div align="center">
-<h2>💬 The Mindset</h2>
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="150"/>
-</div>
-
-<div align="center">
-
-> *"I come from a tier-3 college with an online degree.*
-> *I don't have a brand name to lean on.*
-> *So I build things that cannot be ignored."*
-
-> *"Gold medals. NASA contests. OpenAI hackathons.*
-> *All before year two. The next three years? Watch closely."*
-
-</div>
 
 ---
 
