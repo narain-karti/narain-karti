@@ -89,8 +89,11 @@ Here is a comprehensive list of my public projects and repositories:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narain-karti&show_icons=true&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=00f5ff&bg_color=0d1117&rank_icon=github" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narain-karti&layout=compact&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&bg_color=0d1117&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=narain-karti&theme=tokyonight&border=00f5ff&ring=00f5ff&fire=ff6b35&currStreakLabel=00f5ff&background=0d1117" height="180"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=narain-karti&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&area_color=00f5ff" width="95%"/>
 </div>
 
 ---
