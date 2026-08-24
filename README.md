@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="narain-karti's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=0,2,2,5,30&text=Narain%20Karti&fontSize=80&fontColor=ffffff&stroke=00f5ff&strokeWidth=2&desc=Agentic%20AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Hackathon%20Builder&descSize=20&descAlignY=78&animation=fadeIn" width="100%"/>
 </div>
