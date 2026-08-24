@@ -29,6 +29,9 @@ Welcome to my engineering portfolio. I build agentic AI systems, scalable full-s
 > **[Project K](https://github.com/narain-karti/Project-K)**  
 > 🚦 AI-powered Intelligent Traffic Management System
 
+> **[DECEPTRIX](https://github.com/narain-karti/DECEPTRIX)**  
+> 🎥 AI Video Forensic Analysis & Deepfake Detection System
+
 > **Otomo ARM**  
 > 🧠 AI-native CRM with relationship memory
 
@@ -43,6 +46,7 @@ Here is a comprehensive list of my public projects and repositories:
 
 | 🌟 Project | 📝 Description |
 |------------|----------------|
+| **[DECEPTRIX](https://github.com/narain-karti/DECEPTRIX)** | AI Video Forensic Analysis & Deepfake Detection System. Multi-modal pipeline with YOLOv8, ViT, and temporal consensus for frame-level manipulation detection. |
 | **[Project-K](https://github.com/narain-karti/Project-K)** | AI-Driven Hybrid Edge-Cloud Traffic Intelligence System. Turns passive CCTV cameras into real-time smart traffic nodes that detect accidents in < 2s. |
 | **[DATADOC](https://github.com/narain-karti/DATADOC)** | The Open Source Operating System for Dataset Engineering. |
 | **[Quorum](https://github.com/narain-karti/Quorum)** | A multi-agent AI system built to act as your personal "Board of Directors". Simulates debates with various AI personas. |
